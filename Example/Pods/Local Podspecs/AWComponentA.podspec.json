@@ -1,0 +1,22 @@
+{
+  "name": "AWComponentA",
+  "version": "0.1.0",
+  "summary": "A short description of AWComponentA.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Albert Wang/AWComponentA",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Albert Wang": "yindong_wang@163.com"
+  },
+  "source": {
+    "git": "https://github.com/Albert Wang/AWComponentA.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "AWComponentA/Classes/**/*"
+}

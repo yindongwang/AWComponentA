@@ -1,0 +1,6 @@
+framework module AWComponentA {
+  umbrella header "AWComponentA-umbrella.h"
+
+  export *
+  module * { export * }
+}

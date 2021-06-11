@@ -1,0 +1,16 @@
+PODS:
+  - AWComponentA (0.1.0)
+
+DEPENDENCIES:
+  - AWComponentA (from `../`)
+
+EXTERNAL SOURCES:
+  AWComponentA:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  AWComponentA: 3a331e9458774cfc553fd96cd9895673e30f7c22
+
+PODFILE CHECKSUM: 6e9bb3be390510e80b2c9155bbfa4cba3201ae74
+
+COCOAPODS: 1.10.0
