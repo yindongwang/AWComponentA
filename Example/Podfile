@@ -1,0 +1,6 @@
+use_frameworks!
+target 'AWComponentA_Tests' do
+  pod 'AWComponentA', :path => '../'
+  
+  
+end
